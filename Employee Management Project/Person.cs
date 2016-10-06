@@ -13,7 +13,9 @@ namespace Employee_Management_Project
         protected string lastName;
         protected string dateOfBirth;
         protected double sosNumber;
+        #endregion
 
+        #region Properties
         public string FirstName
         {
             get

@@ -10,9 +10,10 @@ namespace Employee_Management_Project
     {
         static void Main(string[] args)
         {
+            #region Instantiations
             Department myDepartment = new Department();
-            myDepartment.DepartmentName = "Production";
-            myDepartment.ChangeName("Marketing Department");
+            myDepartment.DepartmentName = "GOBILIT";
+            myDepartment.ChangeName("TELEKIT");
             myDepartment.Location = "Southfield, Mi";
             myDepartment.ManagerName = "Calvin Blanc";
 
@@ -78,9 +79,16 @@ namespace Employee_Management_Project
             myEmployee5.PayRate = 95;
             myEmployee5.HoursWorked = 5250;
             myEmployee5.DateHired();
+            #endregion
 
-            Console.Title = ("Iyke's Employee Management");
+            Console.Title = ("Iyke's Employee Management v 1.1");
             Console.WriteLine("Welcome To Iyke's Employee Management\n");
+
+            #region Write To Console
+            Console.WriteLine("Headquaters: " + myDepartment.DepartmentName);
+            Console.WriteLine("Location: " + myDepartment.Location);
+            Console.WriteLine("Manager's Name: " + myDepartment.ManagerName);
+            Console.WriteLine("\n");
 
             Console.WriteLine("First Name: " + myEmployee.FirstName);
             Console.WriteLine("Last Name: " + myEmployee.LastName);
@@ -140,6 +148,7 @@ namespace Employee_Management_Project
             Console.WriteLine("Hrs Worked: " + myEmployee5.HoursWorked);
             Console.WriteLine("Hired: " + myEmployee5.HireDate);
             Console.WriteLine("\n");
+            #endregion
 
             Console.WriteLine("Recent Activity\n");
 
