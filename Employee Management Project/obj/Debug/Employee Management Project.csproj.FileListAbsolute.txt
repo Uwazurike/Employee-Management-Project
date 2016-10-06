@@ -1,0 +1,6 @@
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Employee Management Project\Employee Management Project\bin\Debug\Employee Management Project.exe.config
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Employee Management Project\Employee Management Project\bin\Debug\Employee Management Project.exe
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Employee Management Project\Employee Management Project\bin\Debug\Employee Management Project.pdb
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Employee Management Project\Employee Management Project\obj\Debug\Employee Management Project.csprojResolveAssemblyReference.cache
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Employee Management Project\Employee Management Project\obj\Debug\Employee Management Project.exe
+c:\users\iykef\onedrive\documents\visual studio 2015\Projects\Employee Management Project\Employee Management Project\obj\Debug\Employee Management Project.pdb
